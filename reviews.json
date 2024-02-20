@@ -1,0 +1,42 @@
+{
+    "shawshank redemption": {
+      "tomas": "Great movie!",
+      "petr": "Awesome!",
+      "jakub": "Classic"
+    },
+    "the godfather": {
+      "tomas": "Masterpiece",
+      "marek": "Love it!",
+      "anna": "Must watch"
+    },
+    "the dark knight": {
+      "tomas": "Epic",
+      "jakub": "Amazing!",
+      "anna": "Mind-blowing"
+    },
+    "the prestige": {
+      "marek": "Intriguing",
+      "jakub": "Clever plot",
+      "anna": "Unique"
+    },
+    "el camino": {
+      "jakub": "Good",
+      "martin": "Enjoyable",
+      "anna": "Interesting"
+    },
+    "fight club": {
+      "tomas": "Twisted",
+      "martin": "Intense",
+      "anna": "Thought-provoking"
+    },
+    "interstellar": {
+      "tomas": "Sci-fi masterpiece",
+      "jakub": "Astounding",
+      "anna": "Visually stunning"
+    },
+    "shrek": {
+      "martin": "Hilarious",
+      "anna": "Family favorite"
+    }
+  }
+  
